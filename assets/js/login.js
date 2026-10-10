@@ -69,8 +69,8 @@ document.getElementById("login-form").addEventListener("submit", function (e) {
  */
 function loginUser(name, password) {
   // Logique de validation simulée pour le moment.
-  const validName = "62307024231";
-  const validPassword = "401419";
+  const validName = "42313070242";
+  const validPassword = "419418";
 
   if (name === validName && password === validPassword) {
     // En cas de succès, stocke des informations et redirige.
